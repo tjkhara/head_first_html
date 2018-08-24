@@ -1,0 +1,3 @@
+[submodule "code/Head-First-HTML"]
+	path = code/Head-First-HTML
+	url = https://github.com/bethrobson/Head-First-HTML.git

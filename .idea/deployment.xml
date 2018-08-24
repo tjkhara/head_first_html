@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Linux Server">
+    <serverData>
+      <paths name="Linux">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/CRM" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Linux Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/head_first_html/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

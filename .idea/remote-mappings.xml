@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@bdf9beee-856d-498e-a4c6-f659e1613a53">
+          <settings>
+            <list>
+              <mapping local-root="$USER_HOME$/Desktop/sandbox" remote-root="/media/sf_sandbox" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
